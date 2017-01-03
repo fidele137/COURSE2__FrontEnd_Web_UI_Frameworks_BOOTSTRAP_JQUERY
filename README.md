@@ -9,4 +9,5 @@ Bootstrap's components such as buttons, forms, tables, panels, wells, images and
 ###WEEK 3: 
 Bootstrap's JavaScript based components. Tabs, pills and tabbed navigation, collapse, accordion, scrollspy, affix, tooltips, popovers, modals and the carousel.
 
-WEEK 4: CSS preprocessors, Less and Sass. Node.js and NPM and Bower are presented.
+###WEEK 4: 
+CSS preprocessors, Less and Sass. Node.js and NPM and Bower are presented.
